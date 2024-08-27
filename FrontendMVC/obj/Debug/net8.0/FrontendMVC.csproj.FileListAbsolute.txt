@@ -1,0 +1,7 @@
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.AssemblyInfoInputs.cache
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.AssemblyInfo.cs
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.csproj.CoreCompileInputs.cache
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.RazorAssemblyInfo.cache
+D:\projeckBPKB\FrontendMVC\obj\Debug\net8.0\FrontendMVC.RazorAssemblyInfo.cs
